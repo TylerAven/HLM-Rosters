@@ -1,0 +1,5 @@
+0,Major,MAJ,#111111,CAN,0,-1,0,18,-1
+1,Minor,MIN,#004791,CAN,0,0,2,20,-1
+2,Quebec Junior League,QJL,#ffffff,CAN,0,-1,4,16,21
+3,Ontario Junior League,OJL,#ffffff,CAN,0,-1,4,16,21
+4,Western Junior League,WJL,#dc1735,CAN,0,-1,4,16,21
