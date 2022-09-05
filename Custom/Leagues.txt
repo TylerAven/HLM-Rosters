@@ -1,5 +1,0 @@
-0,National Hockey League,NHL,#111111,CAN,0,-1,0,18,-1
-1,American Hockey League,AHL,#004791,CAN,0,0,2,20,-1
-2,Québec Major Junior Hockey League,QMJHL,#ffffff,CAN,0,-1,4,16,21
-3,Ontario Hockey League,OHL,#ffffff,CAN,0,-1,4,16,21
-4,Western Hockey League,WHL,#dc1735,CAN,0,-1,4,16,21

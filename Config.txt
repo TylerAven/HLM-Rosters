@@ -1,4 +1,0 @@
-name=22SL Roster 9-5
-editable=true
-active=false
-version=23
